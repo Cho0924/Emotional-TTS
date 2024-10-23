@@ -1,0 +1,3 @@
+2024-10-23 16:00:45.023 | INFO     | gradio_tabs.train:initialize:72 - Step 1: start initialization...
+model_name: emo_slang_model, batch_size: 16, epochs: 6, save_every_steps: 1000, freeze_ZH_bert: False, freeze_JP_bert: False, freeze_EN_bert: False, freeze_style: False, freeze_decoder: False, use_jp_extra: True
+2024-10-23 16:00:45.026 | ERROR    | gradio_tabs.train:initialize:119 - Step 1: pretrained_jp_extra folder not found.

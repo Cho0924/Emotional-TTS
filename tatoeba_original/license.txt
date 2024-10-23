@@ -1,0 +1,12 @@
+BY USING THE FILES CONTAINED IN THE PRESENT FOLDER, YOU ACKNOWLEDGE THE FOLLOWING:
+
+This dataset was created using data scraped from the website tatoeba.org .
+
+The transcripts are covered under a CC-BY 2.0 FR (https://creativecommons.org/licenses/by/2.0/fr/deed.en)
+
+The audio file are covered under a CC BY-NC 4.0 license (https://creativecommons.org/licenses/by-nc/4.0/).
+They were provided by the 3 following users:
+https://tatoeba.org/eng/user/profile/huizi99
+https://tatoeba.org/eng/audio/of/Mizu
+https://tatoeba.org/eng/audio/of/yomi
+
